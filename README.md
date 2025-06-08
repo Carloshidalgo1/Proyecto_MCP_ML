@@ -4,7 +4,7 @@ Este proyecto utiliza algoritmos de machine learning para predecir el costo de s
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Nombre:** [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - **Tamaño:** 1338 registros
@@ -19,7 +19,7 @@ Este proyecto utiliza algoritmos de machine learning para predecir el costo de s
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3
 - Pandas, NumPy
@@ -29,7 +29,7 @@ Este proyecto utiliza algoritmos de machine learning para predecir el costo de s
 
 ---
 
-## 🔄 Preprocesamiento
+## Preprocesamiento
 
 - Estandarización de variables numéricas (`StandardScaler`)
 - Codificación One-Hot de variables categóricas
@@ -37,7 +37,7 @@ Este proyecto utiliza algoritmos de machine learning para predecir el costo de s
 
 ---
 
-## 🤖 Modelos entrenados
+## Modelos entrenados
 
 - Linear Regression (baseline)
 - Random Forest Regressor
@@ -47,7 +47,7 @@ Este proyecto utiliza algoritmos de machine learning para predecir el costo de s
 
 ---
 
-## 📈 Resultados
+## Resultados
 
 | Model              | RMSE   | R²      | MAE   | MedAE | MAPE (%) |
 |-------------------|--------|---------|-------|--------|-----------|
@@ -59,7 +59,7 @@ Este proyecto utiliza algoritmos de machine learning para predecir el costo de s
 
 ---
 
-## 📊 Visualizaciones
+## Visualizaciones
 
 - Distribución de características
 - Matriz de correlación
